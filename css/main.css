@@ -1,0 +1,21 @@
+#logo{
+padding: 10px;
+}
+body{
+    background-color: red;
+}
+
+#searchButton, #cleanButton {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#formSearch{
+    width:  100% !important;
+
+}
+@media (max-width: 600px) {
+    #logo {
+      display: none;
+    }
+  }
